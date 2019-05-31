@@ -2,6 +2,8 @@
 
 This project is intended to be used with headless chrome on an AWS ec-2 instance.
 
+I just spun this framework up on 5/31/19 .... no coding has been undertaken yet.
+
 ## Configure AWS ec-2 to run Headless Chrome
 
 https://devopsqa.wordpress.com/2018/03/08/install-google-chrome-and-chromedriver-in-amazon-linux-machine/
